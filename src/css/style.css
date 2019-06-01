@@ -10,7 +10,7 @@
   padding: 10px;
 }
 
-.container {
+/* .container {
   padding-left: 0;
   padding-right: 0;
   width: 100% !important;
@@ -20,7 +20,7 @@
   margin: 0;
   padding: 0;
   cursor: pointer;
-}
+} */
 
 .col-md-4 {
   width: 33.33333333%;
